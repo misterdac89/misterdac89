@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Louis Daccarett
 - 👀 I’m interested in becoming a Web Devloper
-- 🌱 I’m currently learning web development through scrimba which is an online platform.
+- 🌱 I’m currently learning web development.
 - 💞️ I’m looking forward to collaborate on some interesting projects with newbies and advanded web devlopers.
 - 📫 Reach me by using this email address: lsdaccarett89@icloud.com.
 
