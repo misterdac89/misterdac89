@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Louis Daccarett.
-- 🌱 I’m currently learning web development.
-- 💞️ I’m looking forward to collaborating on some interesting projects with newbies and advanced web developers.
+- 🌱 I’m an aspiring Software Engineer.
+- 💞️ I look forward to collaborating on interesting projects with newbies and advanced web developers.
 - 📫 Reach me by using this email address: lsdaccarett89@icloud.com.
 
 <!---
